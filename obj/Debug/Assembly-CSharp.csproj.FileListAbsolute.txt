@@ -1,0 +1,2 @@
+C:\Users\simon.larsson\Desktop\Unity Projects\Mecha Mania\Mecha Mania\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\simon.larsson\Desktop\Unity Projects\Mecha Mania\Mecha Mania\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
